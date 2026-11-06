@@ -10,16 +10,10 @@
 - :cloud: **Облака**: AWS, Docker, Kubernetes
 - :database: **Базы данных**: PostgreSQL, Redis
 
-### 📂 Мои проекты
-| Проект | Описание | Ссылка |
-|--------|----------|--------|
-| Project A | Короткий смысл: что решает проект | [GitHub](ссылка) |
-| Project B | Ещё один проект с пользой для пользователя | [GitHub](ссылка) |
-
 ### 💬 Контакты
-- :email: meiashwa308@gmail.com
-- :bird: -
-- :slack: -
+- EMail meiashwa308@gmail.com
+- X -
+- slack -
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[твой_ник]&show_icons=true&theme=radical" alt="Stats" />
