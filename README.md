@@ -16,6 +16,6 @@
 - slack -
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[твой_ник]&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[твой_ник]&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Airbnb67&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Airbnb67&theme=radical" alt="Streak" />
 </div>
